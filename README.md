@@ -38,3 +38,15 @@ Gerar a key do projeto Laravel
 ```sh
 php artisan key:generate
 ```
+
+Adicionar ao arquivo vite.config.js
+```sh
+server: {
+        host: '0.0.0.0',
+        port: 5173,
+        hmr: {
+            host: 'localhost',
+        },
+    },
+```
+
