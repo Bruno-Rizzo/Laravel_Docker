@@ -10,7 +10,7 @@ git clone https://github.com/laravel/laravel.git app-laravel
 
 Clonar o Repositório dentro da pasta do projeto
 ```sh
-git clone https://github.com/Bruno-Rizzo/laravel_docker_setup.git 
+git clone https://github.com/Bruno-Rizzo/Laravel_Docker.git
 ```
 
 Copiar os arquivos docker-compose.yml, Dockerfile, diretório docker/ e .env para o seu projeto
